@@ -1,0 +1,15 @@
+{
+  "name": "donut_handle_charts",
+  "version": "1.0.0",
+  "description": "Donut charts with handles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Humza",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^5.2.1",
+    "fast-xml-parser": "^4.0.8"
+  }
+}
